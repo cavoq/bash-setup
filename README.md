@@ -13,4 +13,5 @@ $ ./<script-name>
 
 ## Scripts
 
-- [docker-sh](https://github.com/cavoq/useful-scripts/blob/master/docker.sh): Install and configure Docker and Docker Compose for the current user in 1 step.
+- [install-docker-sh](https://github.com/cavoq/useful-scripts/blob/master/install-docker.sh): Install and configure Docker and Docker Compose for the current user in 1 step.
+- [github-info-sh](https://github.com/cavoq/useful-scripts/blob/master/github-info.sh): Get info of a Github user or organization.
