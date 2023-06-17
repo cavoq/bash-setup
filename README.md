@@ -1,4 +1,4 @@
-# useful-scripts
+# bash-utils
 
 Useful scripts to make life easier as a Developer and safe time.
 
