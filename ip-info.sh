@@ -21,10 +21,6 @@ if ! command -v jq &> /dev/null; then
     sudo apt install jq -y
 fi
 
-if ! command -v awk &> /dev/null; then
-    sudo apt install awk -y
-fi
-
 ip_address="$1"
 
 response=$(curl -s "https://ipinfo.io/$ip_address/json")
