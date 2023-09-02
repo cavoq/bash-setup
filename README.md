@@ -18,3 +18,4 @@ $ ./<script-name>
 - [github-backup](https://github.com/cavoq/useful-scripts/blob/master/github-backup.sh): Backup all repositories (including private) of a Github user.
 - [ip-info](https://github.com/cavoq/useful-scripts/blob/master/ip-info.sh): Obtain information about an IP address.
 - [get-services](https://github.com/cavoq/useful-scripts/blob/master/get-services.sh): Get all services running in the current machine on a unix system.
+- [check-url](https://github.com/cavoq/useful-scripts/blob/master/check-url.sh): Check url or onion url status with curl.
